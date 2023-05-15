@@ -29,7 +29,7 @@
 
 ### ⚠ LIST OF SCAMMERS (WARNING)
 
-- The provided link (https://pastebin.com/raw/d9xTMUDR) contains relevant information.
+- The provided [link](https://pastebin.com/raw/d9xTMUDR) contains relevant information.
 - It has come to my attention that individuals using the aliases [@nsmtto](https://t.me/nsmtto) and [@nocrimer](https://t.me/nocrimer) are engaging in deceptive practices and lack the necessary expertise in this field.
 - It has been observed that these individuals operate multiple Telegram channels where they offer ineffective versions of Everspy and Bratarat, falsely claiming to possess features that do not exist.
 - Various sources on Telegram have exposed their fraudulent activities, providing evidence to substantiate these claims.
