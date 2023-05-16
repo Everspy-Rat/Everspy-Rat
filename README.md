@@ -3,7 +3,7 @@
 
 
 ##### Developer of Everspy 2023, an advanced Android tool renowned for its unparalleled functionality and stable Ghost Mode.
- ##### After a prolonged absence from the internet, I have become aware that my previous release of the source code on my now-deleted GitHub repository has served as a source of inspiration for numerous malicious entities in the form of remote administration tools (RATs) currently in circulation.
+##### After a prolonged absence from the internet, I have become aware that my previous release of the source code on my now-deleted GitHub repository has served as a source of inspiration for numerous malicious entities in the form of remote administration tools (RATs) currently in circulation.
 
   
   
