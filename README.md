@@ -5,8 +5,7 @@
 
 
 - ##### [EVERSPY RAT - ANDROID ADVANCED GHOST REMOTE ACCESS - VIDEO REVIEW](https://t.me/everspyoriginal/228) 
-![238107670-9ac08311-8e6e-4721-94d2-9458507b3ef8](https://github.com/nsmttodev/Everspy-Rat/assets/124161128/ce4183d3-bed9-4474-baa4-ac7b0f2d1bed)
-![238107673-32b6e4bb-5667-45ab-a398-c51b834fa308](https://github.com/nsmttodev/Everspy-Rat/assets/124161128/0cee4d74-5e5b-4904-a56d-18dc72f67d6d)
+
 
 
 
