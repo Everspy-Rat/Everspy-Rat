@@ -2,46 +2,62 @@
 
 Please be aware of the following scammers. Exercise extreme caution when dealing with them:
 
-1. [@NSMTTO](https://t.me/NSMTTO)
-2. [@nsmtt0](https://t.me/nsmtt0)
-3. [@searchonion](https://t.me/searchonion)
-4. [@dank6666](https://t.me/dank6666)
-5. [@everspy](https://t.me/everspy)
-6. [@everspy0](https://t.me/everspy0)
-7. [@everspyv3bot](https://t.me/everspyv3bot)
-8. [@Everspya](https://t.me/Everspya)
-9. [@everspy01](https://t.me/everspy01)
-10. [@everspyv3](https://t.me/everspyv3)
-11. [@everspy_rat](https://t.me/everspy_rat)
-12. [@everspyrat0](https://t.me/everspyrat0)
-13. [@rat_introduction](https://t.me/rat_introduction)
-14. [@nocrimer](https://t.me/nocrimer)
-15. [@BRATARATOFFICIAL_scammers](https://t.me/BRATARATOFFICIAL_scammers)
-16. [@nocriner](https://t.me/nocriner)
-17. [@barataArt](https://t.me/barataArt)
-18. [@TheGoiano](https://t.me/TheGoiano)
-19. [@goianoremot](https://t.me/goianoremot)
-20. [@Lectureguru](https://t.me/Lectureguru)
-21. [@momooluh](https://t.me/momooluh)
-22. [@evlf_devzv2](https://t.me/evlf_devzv2)
-23. [@stencilpro](https://t.me/stencilpro)
-24. [@goianoremot](https://t.me/goianoremot)
-25. [@devilgrimmer](https://t.me/devilgrimmer)
-26. [@viver44](https://t.me/viver44)
-27. Email: everspyofficial@gmail.com
-28. Email: everspyv3@gmail.com
-29. Email: brataratofficial@gmail.com
+Aqui estão os endereços separados por plataforma, com duplicatas removidas:
 
+GitHub:
+- [@android-rat](https://github.com/android-rat)
+- [@androidspyware](https://github.com/androidspyware)
+- [@bratarat](http://GitHub.com/bratarat)
+- [@brataratofficial](http://GitHub.com/brataratofficial)
+- [@brataratofficial](https://github.com/BRATARATOFFICIAL/BrataRat)
+- [@CRAXSRAT](https://github.com/EvLFDev/CRAXSRAT)
+- [@EvLFDev](https://github.com/EvLFDev/EvLFDev)
+- [@CraxsRat](https://github.com/craxsrat/CraxsRat)
+- [@Hook-Android-BotNet](https://github.com/HookBotNet/Hook-Android-BotNet)
+- [@everspy](https://github.com/everspy)
 
+Telegram:
+- [@NSMTTO](https://t.me/NSMTTO)
+- [@nsmtt0](https://t.me/nsmtt0)
+- [@searchonion](https://t.me/searchonion)
+- [@dank6666](https://t.me/dank6666)
+- [@everspy](https://t.me/everspy)
+- [@everspy0](https://t.me/everspy0)
+- [@everspyv3bot](https://t.me/everspyv3bot)
+- [@Everspya](https://t.me/Everspya)
+- [@everspy01](https://t.me/everspy01)
+- [@everspyv3](https://t.me/everspyv3)
+- [@everspy_rat](https://t.me/everspy_rat)
+- [@everspyrat0](https://t.me/everspyrat0)
+- [@rat_introduction](https://t.me/rat_introduction)
+- [@nocrimer](https://t.me/nocrimer)
+- [@BRATARATOFFICIAL_scammers](https://t.me/BRATARATOFFICIAL_scammers)
+- [@nocriner](https://t.me/nocriner)
+- [@barataArt](https://t.me/barataArt)
+- [@TheGoiano](https://t.me/TheGoiano)
+- [@goianoremot](https://t.me/goianoremot)
+- [@Lectureguru](https://t.me/Lectureguru)
+- [@momooluh](https://t.me/momooluh)
+- [@evlf_devzv2](https://t.me/evlf_devzv2)
+- [@stencilpro](https://t.me/stencilpro)
+- [@devilgrimmer](https://t.me/devilgrimmer)
+- [@viver44](https://t.me/viver44)
+- [@brataratofficial](https://t.me/brataratofficial)
+- [@IkwdMWq1FfkzMDhh](https://t.me/IkwdMWq1FfkzMDhh)
+- [@brata_rat_android](https://t.me/brata_rat_android)
+- [@Brata_Rat_2023](https://t.me/Brata_Rat_2023)
 
-GitHub repositories associated with these scammers:
+E-mail:
+- everspyofficial@gmail.com
+- brataratofficial@gmail.com
 
-- [android-rat](http://GitHub.com/android-rat)
-- [androidspyware](http://GitHub.com/androidspyware)
-- [bratarat](http://GitHub.com/bratarat)
-- [brataratofficial](http://GitHub.com/brataratofficial)
-- [CraxsRat](https://github.com/craxsrat/CraxsRat)
-- [EvLFDev](https://github.com/EvLFDev/EvLFDev)
-- [CRAXSRAT](https://github.com/EvLFDev/CRAXSRAT)
-- [BrataRat](https://github.com/BRATARATOFFICIAL/BrataRat)
-- [Hook-Android-BotNet](https://github.com/HookBotNet/Hook-Android-BotNet)
+YouTube:
+Aqui está a lista em ordem alfabética dos links do YouTube fornecidos, removendo as entradas repetidas:
+
+- [@android-rat-](https://www.youtube.com/@android-rat-)
+- [@aplikasipremiumcumacuma-hd6hu](https://www.youtube.com/@aplikasipremiumcumacuma-hd6hu)
+- [@BrazillianRat](https://www.youtube.com/@BrazillianRat)
+- [@everspy505](https://www.youtube.com/@everspy505)
+- [@everspy-v3](https://www.youtube.com/@everspy-v3)
+- [@EverSpyv4](https://www.youtube.com/@EverSpyv4)
+- [@Goianodark](https://www.youtube.com/@Goianodark)
