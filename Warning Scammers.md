@@ -2,8 +2,6 @@
 
 Please be aware of the following scammers. Exercise extreme caution when dealing with them:
 
-Aqui estão os endereços separados por plataforma, com duplicatas removidas:
-
 GitHub:
 - [@android-rat](https://github.com/android-rat)
 - [@androidspyware](https://github.com/androidspyware)
