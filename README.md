@@ -21,12 +21,12 @@
 
 ##
 
-### ⚠ LIST OF SCAMMERS (WARNING)
+### ⚠ WARNING: IDENTIFYING SCAMMERS
 
-- The provided [link](https://github.com/nsmttodev/Everspy-Rat/blob/main/Warning%20Scammers.md) contains relevant information.
-- It has come to my attention that individuals using the aliases [@nsmtto](https://t.me/nsmtto) and [@nocrimer](https://t.me/nocrimer) are engaging in deceptive practices and lack the necessary expertise in this field.
-- It has been observed that these individuals operate multiple Telegram channels where they offer ineffective versions of Everspy and Bratarat, falsely claiming to possess features that do not exist.
-- Various sources on Telegram have exposed their fraudulent activities, providing evidence to substantiate these claims.
+- For detailed information, please refer to the [provided link](https://github.com/nsmttodev/Everspy-Rat/blob/main/Warning%20Scammers.md).
+- It has come to my attention that certain individuals, namely [@nsmtto](https://t.me/nsmtto) and [@nocrimer](https://t.me/nocrimer), are involved in fraudulent practices and lack the necessary expertise in this field.
+- These individuals have been observed operating multiple Telegram channels, where they peddle ineffective versions of Everspy and Bratarat, deceitfully claiming to offer non-existent features.
+- Various reliable sources within the Telegram community have exposed their fraudulent activities, presenting concrete evidence to substantiate these claims.
 
 
 ##
