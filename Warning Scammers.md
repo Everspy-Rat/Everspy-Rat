@@ -50,8 +50,6 @@ E-mail:
 - brataratofficial@gmail.com
 
 YouTube:
-Aqui está a lista em ordem alfabética dos links do YouTube fornecidos, removendo as entradas repetidas:
-
 - [@android-rat-](https://www.youtube.com/@android-rat-)
 - [@aplikasipremiumcumacuma-hd6hu](https://www.youtube.com/@aplikasipremiumcumacuma-hd6hu)
 - [@BrazillianRat](https://www.youtube.com/@BrazillianRat)
